@@ -1,7 +1,7 @@
 # How to Upload a Markdown File to Github
 *By: Holden Kausler*
 
-This tutorial gives step-by-step instructions on creating a markdown page and uploading it to GitHub. It gives very vague instructions on how to create a markdown page, but explains how to commit the file to your GitHub account and share it with anyone. This is very basic informationto anyone with any familiarity with GitHub, but to anyone who has never used it before or has very little experience with it, it will make the process a breeze.
+### This tutorial gives step-by-step instructions on creating a markdown page and uploading it to GitHub. It gives very vague instructions on how to create a markdown page, but explains how to commit the file to your GitHub account and share it with anyone. This is very basic informationto anyone with any familiarity with GitHub, but to anyone who has never used it before or has very little experience with it, it will make the process a breeze.
 ---
 
 ## 1. Create a GitHub Account
